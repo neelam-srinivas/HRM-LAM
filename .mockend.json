@@ -1,0 +1,527 @@
+{
+  "data":",
+            "salary": "50000",
+            "actions": true
+        },
+        {
+            "id": 34,
+            "name": "Alex",
+            "department": "IT Network",
+            "designation": "Software Engineer",
+            "salary": "60000",
+            "actions": true
+        },
+        {
+            "id": 35,
+            "name": "Charity",
+            "department": "IT Network",
+            "designation": "Senior Software Engineer",
+            "salary": "70000",
+            "actions": true
+        },
+        {
+            "id": 36,
+            "name": "Michelle",
+            "department": "Development",
+            "designation": "Junior staff",
+            "salary": "10000",
+            "actions": true
+        },
+        {
+            "id": 37,
+            "name": "Jenny",
+            "department": "Development",
+            "designation": "Senior staff",
+            "salary": "20000",
+            "actions": true
+        },
+        {
+            "id": 38,
+            "name": "Boris",
+            "department": "Development",
+            "designation": "Manager",
+            "salary": "30000",
+            "actions": true
+        },
+        {
+            "id": 39,
+            "name": "Annabelle",
+            "department": "Development",
+            "designation": "Team Lead",
+            "salary": "40000",
+            "actions": true
+        },
+        {
+            "id": 40,
+            "name": "Carla",
+            "department": "Development",
+            "designation": "Architect",
+            "salary": "50000",
+            "actions": true
+        },
+        {
+            "id": 41,
+            "name": "Sarah",
+            "department": "Development",
+            "designation": "Software Engineer",
+            "salary": "60000",
+            "actions": true
+        },
+        {
+            "id": 42,
+            "name": "Toby",
+            "department": "Development",
+            "designation": "Senior Software Engineer",
+            "salary": "70000",
+            "actions": true
+        },
+        {
+            "id": 43,
+            "name": "Katy",
+            "department": "Testing",
+            "designation": "Junior staff",
+            "salary": "10000",
+            "actions": true
+        },
+        {
+            "id": 44,
+            "name": "Harry",
+            "department": "Testing",
+            "designation": "Senior staff",
+            "salary": "20000",
+            "actions": true
+        },
+        {
+            "id": 45,
+            "name": "Zach",
+            "department": "Testing",
+            "designation": "Manager",
+            "salary": "30000",
+            "actions": true
+        },
+        {
+            "id": 46,
+            "name": "Chris",
+            "department": "Testing",
+            "designation": "Team Lead",
+            "salary": "40000",
+            "actions": true
+        },
+        {
+            "id": 47,
+            "name": "Harriet",
+            "department": "Testing",
+            "designation": "Architect",
+            "salary": "50000",
+            "actions": true
+        },
+        {
+            "id": 48,
+            "name": "Catherine",
+            "department": "Testing",
+            "designation": "Software Engineer",
+            "salary": "60000",
+            "actions": true
+        },
+        {
+            "id": 49,
+            "name": "Lauren",
+            "department": "Testing",
+            "designation": "Senior Software Engineer",
+            "salary": "70000",
+            "actions": true
+        },
+        {
+            "id": 50,
+            "name": "Zoe",
+            "department": "Administration",
+            "designation": "Junior staff",
+            "salary": "10000",
+            "actions": true
+        },
+        {
+            "id": 51,
+            "name": "Zach",
+            "department": "Administration",
+            "designation": "Senior staff",
+            "salary": "20000",
+            "actions": true
+        },
+        {
+            "id": 52,
+            "name": "Wenna",
+            "department": "Administration",
+            "designation": "Manager",
+            "salary": "30000",
+            "actions": true
+        },
+        {
+            "id": 53,
+            "name": "Wenna",
+            "department": "Administration",
+            "designation": "Team Lead",
+            "salary": "40000",
+            "actions": true
+        },
+        {
+            "id": 54,
+            "name": "Wenna",
+            "department": "Administration",
+            "designation": "Architect",
+            "salary": "50000",
+            "actions": true
+        },
+        {
+            "id": 55,
+            "name": "Tristan",
+            "department": "Administration",
+            "designation": "Software Engineer",
+            "salary": "60000",
+            "actions": true
+        },
+        {
+            "id": 56,
+            "name": "Toby",
+            "department": "Administration",
+            "designation": "Senior Software Engineer",
+            "salary": "70000",
+            "actions": true
+        },
+        {
+            "id": 57,
+            "name": "Steve",
+            "department": "HR",
+            "designation": "Junior staff",
+            "salary": "10000",
+            "actions": true
+        },
+        {
+            "id": 58,
+            "name": "Sophia",
+            "department": "HR",
+            "designation": "Senior staff",
+            "salary": "20000",
+            "actions": true
+        },
+        {
+            "id": 59,
+            "name": "Simon",
+            "department": "HR",
+            "designation": "Manager",
+            "salary": "30000",
+            "actions": true
+        },
+        {
+            "id": 60,
+            "name": "Sarah",
+            "department": "HR",
+            "designation": "Team Lead",
+            "salary": "40000",
+            "actions": true
+        },
+        {
+            "id": 61,
+            "name": "Sally",
+            "department": "HR",
+            "designation": "Architect",
+            "salary": "50000",
+            "actions": true
+        },
+        {
+            "id": 62,
+            "name": "Rick",
+            "department": "HR",
+            "designation": "Software Engineer",
+            "salary": "60000",
+            "actions": true
+        },
+        {
+            "id": 63,
+            "name": "Richard",
+            "department": "HR",
+            "designation": "Senior Software Engineer",
+            "salary": "70000",
+            "actions": true
+        },
+        {
+            "id": 64,
+            "name": "Rachel",
+            "department": "IT Infra",
+            "designation": "Junior staff",
+            "salary": "10000",
+            "actions": true
+        },
+        {
+            "id": 65,
+            "name": "Polly",
+            "department": "IT Infra",
+            "designation": "Senior staff",
+            "salary": "20000",
+            "actions": true
+        },
+        {
+            "id": 66,
+            "name": "Phillip",
+            "department": "IT Infra",
+            "designation": "Manager",
+            "salary": "30000",
+            "actions": true
+        },
+        {
+            "id": 67,
+            "name": "Michelle",
+            "department": "IT Infra",
+            "designation": "Team Lead",
+            "salary": "40000",
+            "actions": true
+        },
+        {
+            "id": 68,
+            "name": "Michelle",
+            "department": "IT Infra",
+            "designation": "Architect",
+            "salary": "50000",
+            "actions": true
+        },
+        {
+            "id": 69,
+            "name": "Michelle",
+            "department": "IT Infra",
+            "designation": "Software Engineer",
+            "salary": "60000",
+            "actions": true
+        },
+        {
+            "id": 70,
+            "name": "Maud",
+            "department": "IT Infra",
+            "designation": "Senior Software Engineer",
+            "salary": "70000",
+            "actions": true
+        },
+        {
+            "id": 71,
+            "name": "Matthew",
+            "department": "IT Database",
+            "designation": "Junior staff",
+            "salary": "10000",
+            "actions": true
+        },
+        {
+            "id": 72,
+            "name": "Matt",
+            "department": "IT Database",
+            "designation": "Senior staff",
+            "salary": "20000",
+            "actions": true
+        },
+        {
+            "id": 73,
+            "name": "Lauren",
+            "department": "IT Database",
+            "designation": "Manager",
+            "salary": "30000",
+            "actions": true
+        },
+        {
+            "id": 74,
+            "name": "Katy",
+            "department": "IT Database",
+            "designation": "Team Lead",
+            "salary": "40000",
+            "actions": true
+        },
+        {
+            "id": 75,
+            "name": "Katy",
+            "department": "IT Database",
+            "designation": "Architect",
+            "salary": "50000",
+            "actions": true
+        },
+        {
+            "id": 76,
+            "name": "Jhon",
+            "department": "IT Database",
+            "designation": "Software Engineer",
+            "salary": "60000",
+            "actions": true
+        },
+        {
+            "id": 77,
+            "name": "Jenny",
+            "department": "IT Database",
+            "designation": "Senior Software Engineer",
+            "salary": "70000",
+            "actions": true
+        },
+        {
+            "id": 78,
+            "name": "Jeff",
+            "department": "IT Network",
+            "designation": "Junior staff",
+            "salary": "10000",
+            "actions": true
+        },
+        {
+            "id": 79,
+            "name": "James",
+            "department": "IT Network",
+            "designation": "Senior staff",
+            "salary": "20000",
+            "actions": true
+        },
+        {
+            "id": 80,
+            "name": "Jack",
+            "department": "IT Network",
+            "designation": "Manager",
+            "salary": "30000",
+            "actions": true
+        },
+        {
+            "id": 81,
+            "name": "Heather",
+            "department": "IT Network",
+            "designation": "Team Lead",
+            "salary": "40000",
+            "actions": true
+        },
+        {
+            "id": 82,
+            "name": "Harry",
+            "department": "IT Network",
+            "designation": "Architect",
+            "salary": "50000",
+            "actions": true
+        },
+        {
+            "id": 83,
+            "name": "Harriet",
+            "department": "IT Network",
+            "designation": "Software Engineer",
+            "salary": "60000",
+            "actions": true
+        },
+        {
+            "id": 84,
+            "name": "Gemma",
+            "department": "IT Network",
+            "designation": "Senior Software Engineer",
+            "salary": "70000",
+            "actions": true
+        },
+        {
+            "id": 85,
+            "name": "Fred",
+            "department": "Development",
+            "designation": "Junior staff",
+            "salary": "10000",
+            "actions": true
+        },
+        {
+            "id": 86,
+            "name": "Forest",
+            "department": "Development",
+            "designation": "Senior staff",
+            "salary": "20000",
+            "actions": true
+        },
+        {
+            "id": 87,
+            "name": "Darth",
+            "department": "Development",
+            "designation": "Manager",
+            "salary": "30000",
+            "actions": true
+        },
+        {
+            "id": 88,
+            "name": "Chris",
+            "department": "Development",
+            "designation": "Team Lead",
+            "salary": "40000",
+            "actions": true
+        },
+        {
+            "id": 89,
+            "name": "Charity",
+            "department": "Development",
+            "designation": "Architect",
+            "salary": "50000",
+            "actions": true
+        },
+        {
+            "id": 90,
+            "name": "Catherine",
+            "department": "Development",
+            "designation": "Software Engineer",
+            "salary": "60000",
+            "actions": true
+        },
+        {
+            "id": 91,
+            "name": "Casper",
+            "department": "Development",
+            "designation": "Senior Software Engineer",
+            "salary": "70000",
+            "actions": true
+        },
+        {
+            "id": 92,
+            "name": "Carla",
+            "department": "Testing",
+            "designation": "Junior staff",
+            "salary": "10000",
+            "actions": true
+        },
+        {
+            "id": 93,
+            "name": "Boris",
+            "department": "Testing",
+            "designation": "Senior staff",
+            "salary": "20000",
+            "actions": true
+        },
+        {
+            "id": 94,
+            "name": "Beth",
+            "department": "Testing",
+            "designation": "Manager",
+            "salary": "30000",
+            "actions": true
+        },
+        {
+            "id": 95,
+            "name": "Annabelle",
+            "department": "Testing",
+            "designation": "Team Lead",
+            "salary": "40000",
+            "actions": true
+        },
+        {
+            "id": 96,
+            "name": "Alison",
+            "department": "Testing",
+            "designation": "Architect",
+            "salary": "50000",
+            "actions": true
+        },
+        {
+            "id": 97,
+            "name": "Alice",
+            "department": "Testing",
+            "designation": "Software Engineer",
+            "salary": "60000",
+            "actions": true
+        },
+        {
+            "id": 98,
+            "name": "Alex",
+            "department": "Testing",
+            "designation": "Senior Software Engineer",
+            "salary": "70000",
+            "actions": true
+        }
+    ]
+}
