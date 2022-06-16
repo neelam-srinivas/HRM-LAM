@@ -3,6 +3,8 @@
     "name": { "string": {} },
     "department": { "string": ["Administration", "HR", "IT Infra", "IT Database","IT Network","Development","Testing"] },
     "designation": { "string": ["Junior staff","Senior staff","Manager","Team Lead","Architect","Software Engineer","Senior Software Engineer"] },
-    "salary": { "int": { "min": 2000, "max": 1000000 } }
+    "salary": { "int": { "min": 2000, "max": 1000000 } },
+    "totalLeaves":{"int": {"min":0, "max":12} },
+    "availedLeaves":{"int": {"min":0, "max":12} },
   }
 }
